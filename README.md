@@ -10,4 +10,4 @@
 
 # 测试通过
 环境
-- Windows11 + 微软五笔
+- Windows11 + 微软五笔/rime
