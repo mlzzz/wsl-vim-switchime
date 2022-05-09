@@ -1,4 +1,4 @@
-" 添加到.vimrc
+" 添加到.vimrc/init.vim
 if executable("fcitx") || executable("switchIME.exe")
   if executable("fcitx")
     let g:ime2en_cmd = "fcitx-remote -c"
